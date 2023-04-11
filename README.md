@@ -39,7 +39,7 @@ Criamos um **Jogo de Adivinha**. Colocamos um numero no input e clicamos no bot�
  se apertamos o botão com input vazio é apresentado uma mensagem de erro **( Erro: o campo nao pode ser vazio!
         Digite um número entre 0 e 10! )**.
 
-- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerDesafioForm2/)
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerJogoDaAdvinhacao/)
 
 
 
